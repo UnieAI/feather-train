@@ -6,3 +6,6 @@ dist/
 jobs/
 workspace/
 run.json
+tb3/
+tb3-smoke.*
+runs/
